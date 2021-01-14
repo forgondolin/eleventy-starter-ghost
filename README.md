@@ -22,7 +22,7 @@ yarn
 
 # Running
 
-Start the development server
+Start the development server 2.v
 
 ```bash
 yarn start
